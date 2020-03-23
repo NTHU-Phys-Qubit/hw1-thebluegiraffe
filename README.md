@@ -1,6 +1,6 @@
 # 10820PHYS401200-HW1
 10820PHYS401200-HW1
 
-Name:
+Name: Sun YiTing (thebluegiraffe)
 
-ID:
+ID: 105080061
